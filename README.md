@@ -19,7 +19,7 @@ En el encabezado de la página, se encuentra el título de la serie como imagen,
 
 ## Cuerpo
 
-El cuerpo de la página consta de diferentes secciones ordenadas según su orden de relevancia:
+El cuerpo de la página consta de diferentes secciones ordenadas según su relevancia:
 
 1. **Información general de la serie**
 
@@ -34,11 +34,11 @@ El cuerpo de la página consta de diferentes secciones ordenadas según su orden
 
 3. **Actores**
 
-    En la siguiente sección se encuentran diferentes cuadros de imágenes con su descrpición. Cada cuadro de imagen contiene la fotografía de un actor principal de la serie con su nombre en la parte inferior y el personaje al que interpreta.
+    En la siguiente sección se encuentran diferentes cuadros de imágenes con su descripción. Cada cuadro de imagen contiene la fotografía de un actor principal de la serie con su nombre en la parte inferior y el personaje al que interpreta.
 
 4. **Orígenes de la obra**
 
-    En esta sección, se encuentra un cuadro de texto que contiene información sobre los orígenes de la obra (datos sobre su escritura, la inspiración del autor principal, entre otros.)
+    En esta sección, se encuentra un cuadro de texto que contiene información sobre los orígenes de la obra (datos sobre su escritura, la inspiración del autor principal, etc.)
 
 5. **Datos curiosos**
 
@@ -46,7 +46,7 @@ El cuerpo de la página consta de diferentes secciones ordenadas según su orden
 
 6. **Resumen**
 
-    En esta sección se encuentra un cuadro de dialogo con un video de YouTube incluído. El usuario podrá elegir si ver el video en la página o verlo directamente en la plataforma de YouTube. El video consistirá en un resumen corto de la obra.
+    En esta sección se encuentra un cuadro de diálogo con un video de YouTube incluido. El usuario podrá elegir si ver el video en la página o verlo directamente en la plataforma de YouTube. El video consistirá en un resumen corto de la obra.
 
 7. **Temporadas y Episodios**
 
@@ -54,3 +54,18 @@ El cuerpo de la página consta de diferentes secciones ordenadas según su orden
 
 ## Pie de Página
 
+El pie de la página web contiene tres secciones ubicadas en orden horizontal seguidamente:
+
+1. **Vínculos**
+
+    En esta sección del pie de página estará disponible una lista de diferentes vínculos redireccionando al usuario a diferentes páginas referentes a la obra (páginas de reseñas, página oficial, IDMB, plataformas de streaming, etc.)
+
+2. **Sección de comentarios**
+
+    En la sección de comentarios se encuentran dos cajas de texto para que el usuario ingrese su nombre y su comentario respectivo. Debajo, aparece un botón para publicar el comentario.
+
+3. **Imagen del grupo**
+
+    La imagen del grupo contiene el nombre del grupo que realizó la página y una imagen que hace referencia a la serie.
+
+    
